@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<head>
+<title>计算机网络技术2班课程表</title>
+</head>
 <html&gt;
 <body>
 <table border="1px" bordercolor="579AEE" cellspacing="1px" cellpadding="10px" align="center" width="1050px">
