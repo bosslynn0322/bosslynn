@@ -4,6 +4,7 @@
 </head>
 <html&gt;
 <body>
+<h1 align="center">网络2班课程表（Made by Lynn Yue）</h1>
 <table border="1px" bordercolor="579AEE" cellspacing="1px" cellpadding="10px" align="center" width="1050px">
 <tr bgcolor="pink">	
 <th align="center" width="30px"></th>
